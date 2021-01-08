@@ -18,3 +18,8 @@ button:enabled {
 }
 
 /* Add the 'nearMaxMass' class style here: */
+.nearMaxMass {
+    font-style: italic;
+    font-weight: bold;
+    color: red;
+}
